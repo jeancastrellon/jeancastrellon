@@ -6,19 +6,18 @@
 class SoftwareDeveloper:
     def __init__(self):
         self.name = "Wo Jan"
-        self.languages = ["Python", "JavaScript", "Bash"]
+        self.languages = ["Python", "Typescript"]
         self.os = ["Arch Linux 🐧", "macOS 🍎"]
-        self.editors = ["Neovim", "VSCode"]
+        self.editors = ["Neovim"]
         self.interests = [
             "Cybersecurity",
             "Task Automation",
             "DevOps & CI/CD",
-            "CLI Tools",
-            "Elegant Simplicity"
+            "CLI Tools"
         ]
         self.tools = [
-            "AWS", "Firebase", "Docker", "Git", "Github",
-            "LaTeX", "Postman", "tmux", "SSH", "Markdown"
+            "Docker", "Git", "Github",
+            "Postman", "tmux", "SSH", "Markdown"
         ]
         self.language_spoken = ["en_US", "es_ES"]
 
@@ -40,12 +39,11 @@ if __name__ == "__main__":
 - Distributed Systems
 - Offensive & Defensive Security (Red & Blue Team)
 - Infrastructure as Code (IaC) with Terraform
-- Mastering tools like `tmux`, `nmap`, `tcpdump`, `fzf`, `ripgrep`, and more
 
 
 ## 🔧 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=aws,firebase,docker,python,linux,git,github,javascript,django,nodejs,bash,redhat,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,python,linux,react,git,github,javascript,typescript,django,nodejs,bash,redhat,neovim)](https://skillicons.dev)
 
 
 ## 🧠 Personal Philosophy
