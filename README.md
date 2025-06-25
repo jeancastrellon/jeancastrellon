@@ -40,7 +40,7 @@ if __name__ == "__main__":
 
 ## 🔧 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=docker,python,linux,react,git,github,typescript,django,nodejs,bash,redhat,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,python,linux,react,git,github,typescript,django,postgres,nodejs,bash,redhat,neovim)](https://skillicons.dev)
 
 
 ## 🧠 Personal Philosophy
