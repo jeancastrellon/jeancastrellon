@@ -10,14 +10,12 @@ class SoftwareDeveloper:
         self.os = ["Arch Linux 🐧", "macOS 🍎"]
         self.editors = ["Neovim"]
         self.interests = [
-            "Cybersecurity",
-            "Task Automation",
             "DevOps & CI/CD",
-            "CLI Tools"
+            "Microservices"
         ]
         self.tools = [
             "Docker", "Git", "Github",
-            "Postman", "tmux", "SSH", "Markdown"
+            "Postman", "SSH", "Markdown"
         ]
         self.language_spoken = ["en_US", "es_ES"]
 
@@ -52,10 +50,3 @@ if __name__ == "__main__":
 - I don’t like reinventing the wheel — unless I can make it spin faster.
 - Less frameworks, more understanding.
 - Sometimes all I need is a terminal and a cup of coffee ☕.
-
-
-## 📡 Did you know you can run this in your terminal?
-
-```bash
-curl -s https://raw.githubusercontent.com/wo-jan/wo-jan/main/whoami.py | python3
-```
