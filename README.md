@@ -5,7 +5,6 @@
 
 class SoftwareDeveloper:
     def __init__(self):
-        self.name = "Wo Jan"
         self.languages = ["Python", "Typescript"]
         self.os = ["Arch Linux 🐧", "macOS 🍎"]
         self.editors = ["Neovim"]
